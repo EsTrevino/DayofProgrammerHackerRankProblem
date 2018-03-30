@@ -59,7 +59,7 @@ namespace DayofProgammerHackerRankProblem
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Logic(1917);
         }
     }
 }
